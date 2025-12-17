@@ -1,42 +1,71 @@
-## Hi there! 👋
+# 👋 Hi, I'm Soumya Ranjan Padhi
 
-I'm **Soumya Ranjan Padhi**, a driven and disciplined professional with hands-on problem-solving skills. My passion lies in solving complex problems through technology, and I'm always eager to learn and grow!
+Driven and disciplined software professional with a strong problem-solving mindset. Passionate about full-stack development, Data Structures & Algorithms, and building real-world scalable applications.
 
-## About Me
-Driven and disciplined professional with hands-on problem-solving skills, a strong learning mindset, and a clear focus on growth, impact, and consistent results
+---
 
-## Skills & Technologies
+## 🌐 Connect With Me  
 
-java,js,nodejs,html,css,react,mongodb,express,git,github,py
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumya%20Ranjan%20Padhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 
-## Top Projects
+---
 
-- [Tradesim](https://github.com/soumya7800/Tradesim): A MERN-based trading simulator for real-time market interactions. **Stars**: 0 | **Language**: TypeScript | **Forks**: 0 
-- [java.DSA](https://github.com/soumya7800/java.DSA): A personal project showcasing my journey in Data Structures and Algorithms with Java. **Stars**: 0 | **Language**: Java | **Forks**: 0 
-- [E-commerce-website](https://github.com/soumya7800/E-commerce-website): An online learning platform built with HTML, CSS, and JavaScript. **Stars**: 2 | **Language**: HTML | **Forks**: 0 
-- [Agrivision-Ai](https://github.com/soumya7800/Agrivision-Ai): A Node.js-based AI application providing a clean architecture for generative AI. **Stars**: 0 | **Language**: TypeScript | **Forks**: 0 
-- [Apple-Vision-Website](https://github.com/soumya7800/Apple-Vision-Website): A responsive website inspired by Apple's design, built with HTML, CSS, and JavaScript. **Stars**: 0 | **Language**: JavaScript | **Forks**: 0
+## 🧠 Core Skills  
 
-## GitHub Stats
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-🌟 **Public Repositories**: 7  
-👥 **Followers**: 0  
-👤 **Following**: 0  
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects  
+
+**🔹 Tradesim** – MERN Trading Simulator  
+🔗 https://github.com/soumya7800/Tradesim  
+Tech: TypeScript, React, Node.js, MongoDB  
+
+**🔹 Java DSA** – Structured DSA Practice  
+🔗 https://github.com/soumya7800/java.DSA  
+Tech: Java  
+
+**🔹 Agrivision-AI** – AI Application Architecture  
+🔗 https://github.com/soumya7800/Agrivision-Ai  
+Tech: Node.js, TypeScript  
+
+---
+
+## 📊 GitHub Analytics  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumya7800&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya7800&layout=compact&theme=radical)
 
-## Recent Activity
+---
 
-Here are some of my latest activities on GitHub:  
-- Created repository [soumya7800](https://github.com/soumya7800/soumya7800)  
-- Pushed updates to [java.DSA](https://github.com/soumya7800/java.DSA)  
-- Committed changes on [Agrivision-Ai](https://github.com/soumya7800/Agrivision-Ai)  
-- Contributed to [Tradesim](https://github.com/soumya7800/Tradesim)  
-- Updated [E-commerce-website](https://github.com/soumya7800/E-commerce-website)
+## 🎯 Focus Areas  
 
-## Latest Blog Posts
+- Full-Stack Development (MERN)
+- Backend Engineering
+- Data Structures & Algorithms
+- Clean Code & Scalable Architecture
 
-Currently, I don't have any blog posts. Stay tuned for updates!
+---
 
-## Connect with Me
-
-{}
+⭐ *Actively seeking opportunities as a fresher / intern. Always open to learning and collaboration.*
