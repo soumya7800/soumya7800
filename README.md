@@ -3,8 +3,7 @@
 I'm **Soumya Ranjan Padhi**, a driven and disciplined professional with hands-on problem-solving skills. My passion lies in solving complex problems through technology, and I'm always eager to learn and grow!
 
 ## About Me
-
-Based in **Bhubaneswar, India**, I'm focused on delivering impactful results while continuously improving my skills. I thrive on challenges and have a clear focus on growth and consistent results.
+Driven and disciplined professional with hands-on problem-solving skills, a strong learning mindset, and a clear focus on growth, impact, and consistent results
 
 ## Skills & Technologies
 
