@@ -70,8 +70,6 @@ Focused on consistent engineering practices, backend-first system thinking, and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya7800&layout=compact&theme=radical" />
 </p>
 
-✔ New repo → new language → card updates automatically  
-✔ No manual logo updates needed  
 
 ---
 
