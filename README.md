@@ -1,4 +1,16 @@
-# 👋 Hi, I'm Soumya Ranjan Padhi
+<h1 align="center">
+  Hi 👋, I'm Soumya Ranjan Padhi
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+DSA+Problem+Solver;Backend+Engineering+Enthusiast;Always+Learning+%26+Building" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soumya7800&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
 
 Driven and disciplined software professional with a strong problem-solving mindset. Passionate about full-stack development, Data Structures & Algorithms, and building real-world scalable applications.
 
@@ -6,9 +18,17 @@ Driven and disciplined software professional with a strong problem-solving minds
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumya%20Ranjan%20Padhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Soumya%20Ranjan%20Padhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -52,10 +72,22 @@ Tech: Node.js, TypeScript
 
 ---
 
+## 📈 LeetCode Live Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+> 🔧 Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode username.
+
+---
+
 ## 📊 GitHub Analytics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumya7800&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumya7800&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumya7800&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya7800&layout=compact&theme=radical" />
+</p>
 
 ---
 
