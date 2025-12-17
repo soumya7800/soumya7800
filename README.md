@@ -15,11 +15,7 @@
 Software Engineer with strong fundamentals in **Data Structures & Algorithms**, **backend engineering**, and **full-stack development**.  
 Experienced in building **scalable MERN applications**, designing **RESTful APIs**, and writing **clean, maintainable code**.
 
-Focused on delivering reliable software through:
-- Strong computer science foundations  
-- Backend-first system thinking  
-- Consistent algorithmic problem solving  
-- Practical, real-world engineering projects  
+Focused on consistent engineering practices, backend-first system thinking, and real-world problem solving.
 
 ---
 
@@ -39,74 +35,63 @@ Focused on delivering reliable software through:
 
 ---
 
-## 🧠 Technical Competencies
+## 🧠 Core Technical Stack (Primary)
+
+> These represent my **core, actively used technologies**
 
 ### Programming Languages
-- **Java** (Primary – DSA, OOPs, problem solving)
-- **JavaScript / TypeScript** (Full-stack & backend)
-- **Python** (Foundational problem solving)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
-- HTML5, CSS3
-- React (component-based UI, state management)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend & Databases
-- Node.js, Express.js
-- RESTful APIs, MVC architecture
-- MongoDB (schema design, CRUD operations)
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Engineering Tools
-- Git & GitHub
-- VS Code
-- Debugging and code review practices
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 📈 Language Usage (Auto-Updating)
 
-### 🔹 Tradesim — MERN Trading Simulator  
+> This section **automatically reflects new languages** when you add repositories.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya7800&layout=compact&theme=radical" />
+</p>
+
+✔ New repo → new language → card updates automatically  
+✔ No manual logo updates needed  
+
+---
+
+## 🚀 Featured Projects
+
+**Tradesim — MERN Trading Simulator**  
 🔗 https://github.com/soumya7800/Tradesim  
 
-- Built a **full-stack trading simulation platform**
-- Designed modular backend APIs with Express.js
-- Emphasis on scalability, clean architecture, and maintainability  
-
-**Tech Stack:** TypeScript, React, Node.js, MongoDB  
-
----
-
-### 🔹 Java DSA — Algorithmic Problem Solving  
+**Java DSA — Algorithmic Problem Solving**  
 🔗 https://github.com/soumya7800/java.DSA  
 
-- Solving **interview-level DSA problems** in Java
-- Covers arrays, strings, hashing, recursion, stacks, and queues
-- Focus on optimized, readable solutions  
-
-**Tech Stack:** Java  
-
----
-
-### 🔹 Agrivision-AI — Backend Architecture  
+**Agrivision-AI — Backend Architecture**  
 🔗 https://github.com/soumya7800/Agrivision-Ai  
 
-- Backend-focused project with **clean architectural structure**
-- Designed for AI-based workflows
-- Strong separation of concerns  
-
-**Tech Stack:** Node.js, TypeScript  
-
 ---
 
-## 📈 Competitive Programming & Algorithmic Practice
-
-Consistently engaged in **problem-solving and algorithmic practice** with a focus on patterns commonly tested in technical interviews.
+## 📈 Competitive Programming
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/soumyaranjanpadhi?theme=dark&font=Karma&ext=heatmap" />
-</p>
-
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=soumyaranjanpadhi&theme=dark" />
 </p>
 
 ---
@@ -115,14 +100,12 @@ Consistently engaged in **problem-solving and algorithmic practice** with a focu
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soumya7800&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumya7800&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🚀 Engineering Consistency & Contribution Activity
+## 🚀 Engineering Consistency & Contribution Activity (Live)
 
-Demonstrates **consistent engineering effort** through regular commits, project iteration, and continuous refinement of codebases.  
-The activity below reflects **real-time public GitHub contributions** and updates automatically with ongoing development work.
+> Updates automatically with every commit, repo creation, or deletion.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soumya7800&theme=react-dark&hide_border=true)
