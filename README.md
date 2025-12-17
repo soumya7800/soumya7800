@@ -109,13 +109,6 @@ Consistently engaged in **problem-solving and algorithmic practice** with a focu
   <img src="https://leetcode-stats-six.vercel.app/api?username=soumyaranjanpadhi&theme=dark" />
 </p>
 
-**Primary Focus Areas**
-- Arrays, Strings, Hashing  
-- Two Pointers & Sliding Window  
-- Recursion & Backtracking  
-- Introductory Dynamic Programming  
-- Interview pattern recognition and optimization  
-
 ---
 
 ## 📊 GitHub Engineering Metrics
