@@ -97,7 +97,9 @@ Focused on delivering reliable software through:
 
 ---
 
-## 📈 Competitive Programming
+## 📈 Competitive Programming & Algorithmic Practice
+
+Consistently engaged in **problem-solving and algorithmic practice** with a focus on patterns commonly tested in technical interviews.
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/soumyaranjanpadhi?theme=dark&font=Karma&ext=heatmap" />
@@ -106,6 +108,13 @@ Focused on delivering reliable software through:
 <p align="center">
   <img src="https://leetcode-stats-six.vercel.app/api?username=soumyaranjanpadhi&theme=dark" />
 </p>
+
+**Primary Focus Areas**
+- Arrays, Strings, Hashing  
+- Two Pointers & Sliding Window  
+- Recursion & Backtracking  
+- Introductory Dynamic Programming  
+- Interview pattern recognition and optimization  
 
 ---
 
@@ -118,6 +127,9 @@ Focused on delivering reliable software through:
 
 ---
 
-## 🚀 GitHub Contribution Activity (Live)
+## 🚀 Engineering Consistency & Contribution Activity
+
+Demonstrates **consistent engineering effort** through regular commits, project iteration, and continuous refinement of codebases.  
+The activity below reflects **real-time public GitHub contributions** and updates automatically with ongoing development work.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soumya7800&theme=react-dark&hide_border=true)
